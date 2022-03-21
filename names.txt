@@ -1,4 +1,4 @@
-git init -To initialse the git -change from test1
+git init -To initialse the git -change from test1- I have chnaged it right
 git status - to know the status 
 git add . or git add nameofthefile- To add the files from untracked to staged in here you can see files in green after this command 
 pooja loves pramod
